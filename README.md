@@ -1,2 +1,3 @@
 # google-repo
 this is a project for git course of google
+I am editing the README file. Adding some more details about the project description.
